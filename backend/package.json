@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "This is Job Portal Application",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "dev":"nodemon index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Swaraj Pawar",
